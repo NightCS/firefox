@@ -2,6 +2,8 @@
 
 Night is now available for firefox too
 
+![demonstration](./misc/demonstration.png)
+
 ## Usage
 
 ### [Firefox Color](https://color.firefox.com)
