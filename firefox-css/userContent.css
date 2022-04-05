@@ -3,7 +3,7 @@
 @namespace url("http://www.w3.org/1999/xhtml");
 
 :root {
-	scrollbar-color: #0B0F10 #101415;
+	scrollbar-color: #0A1419 #1c252c;
 }
 
 * {
@@ -16,7 +16,7 @@
 	}
 
 	body {
-		background-color: #0B0F10 !important;
+		background-color: #0A1419 !important;
 	}
 
 	#tabsToggle {
@@ -28,7 +28,7 @@
 	html|input[type="color"]:hover,
 	xul|button:not([disabled="true"]):hover,
 	xul|menulist:not([disabled="true"]):hover {
-		border-color: #101415 !important;
+		border-color: #1c252c !important;
 		background-color: #131718 !important;
 	}
 
@@ -36,8 +36,8 @@
 	html|button[type="submit"],
 	xul|button[default],
 	button.primary {
-		border-color: #101415 !important;
-		background-color: #84a0c6 !important;
+		border-color: #1c252c !important;
+		background-color: #6791C9 !important;
 	}
 }
 
@@ -47,7 +47,7 @@
 	}
 
 	body {
-		background-color: #0B0F10 !important;
+		background-color: #0A1419 !important;
 	}
 
     .SnippetBaseContainer {
@@ -57,7 +57,7 @@
 	.search-handoff-button {
 		border-radius: 15px !important;
 		border-width: 4px !important;
-		border-color: #101415 !important;
+		border-color: #1c252c !important;
 		background-size: 0px !important;
 		background-color: #131718 !important;
 		padding-inline-start: 10px !important;

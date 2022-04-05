@@ -1,9 +1,9 @@
 :root {
-  --contrast: #000102;
+  --contrast: #0A1419;
   --background: #061115;
-  --black: #08151a;
-  --black2: #1c252c;
-  --foreground: #D9D7D6;
+  --black: #1c252c;
+  --black2: #484e5b;
+  --foreground: #d9d7d6;
 }
 
 * {
@@ -46,13 +46,13 @@ window,
 }
 
 .tab-background {
-	background-color: var(--background) !important;
+	background-color: var(--contrast) !important;
 	border-color: none !important;
 	margin-block: 0px !important;
 }
 
 .tab-background[selected="true"] {
-	background-color: var(--contrast) !important;
+	background-color: var(--background) !important;
 	-moz-appearance: none !important;
 	background-image: none !important;
 	border: none !important;
